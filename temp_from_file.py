@@ -19,4 +19,3 @@ try:
 except FileNotFoundError:
     print(f"File {filepath} not found")
 
-print ('trying to eit sth here')
